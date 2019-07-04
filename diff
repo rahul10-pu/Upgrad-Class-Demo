@@ -1,0 +1,53 @@
+REST stands for REpresentational State Transfer.
+SOAP stands for Simple Object Access Protocol.
+
+REST is an architectural style.
+SOAP is a protocol.
+
+REST Created in 2000 by Roy Fielding
+SOAP created in 1998 by Dave Winer
+
+REST can use SOAP web services because it is a concept and can use any protocol like HTTP, SOAP.
+SOAP can’t use REST because it is a protocol.
+
+REST uses URI to expose business logic.
+SOAP uses services interfaces to expose the business logic.
+
+REST does not define too much standards like SOAP.
+SOAP defines standards to be strictly followed.
+
+REST requires less bandwidth and resource than SOAP.
+SOAP requires more bandwidth and resource than REST.
+
+RESTful web services inherits security measures from the underlying transport.
+SOAP defines its own security.
+
+REST permits different data format such as Plain text, HTML, XML, JSON etc.
+SOAP permits XML data format only.
+
+REST more preferred than SOAP.
+SOAP is less preferred than REST.
+
+REST makes data available as resources
+SOAP makes data available as a service
+
+REST follows the philosophy of the Open Web
+SOAP follows formal enterprise approach
+
+REST works on top of the HTTP protocol
+Works on top of any communication protocol
+
+REST can return data in multiple formats (JSON, XML etc)
+SOAP Uses only XML
+
+Hard to enforce authorization and security on top of it
+Hard to implement and is unpopular among Web and mobile developers
+
+REST can be used When clients and servers operate on a Web environment
+SOAP can be used when clients need to have access to objects available on servers
+
+REST can be used when information about objects doesn’t need to be communicated to the client
+SOAP Can be used when you wants to enforce a formal contract between client and server
+
+Famous REST example : LinkedInb 
+Famous SOAP example : SalesForce, Paypal
